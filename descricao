@@ -1,0 +1,9 @@
+ Um banco precisa de um sistema para gerenciar as filas de atendimento para o caixa. Sabe-se que
+há três tipos de senhas que precisarão ser desenvolvidas: atendimento comum, atendimento
+preferêncial e atendimento vip. A ordem de prioridade é atendimento preferencial, atendimento vip,
+aterndimento comum sendo que não é permitida a chamada de qualquer tipo de senha mais de três
+vezes consecutivas. Você deve implementar uma interface gráfica para distribuir senhas, uma interface
+gráfica para chamar um cliente (utilizada pelo operador do caixa) e uma interface para exibir a senha
+atual (mostrar a senha chamada para o público). É necessário armazenar os dados das senhas
+distribuídas em um banco de dados relacional. Para este exercício desenvolva uma interface gráfica
+completa e funcional.
